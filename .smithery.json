@@ -1,0 +1,8 @@
+{
+  "client": "cursor",
+  "profile": "rare-mastodon-E1Gpup",
+  "filesystem": {
+    "paths": ["I:\\문서\\Obsidian"],
+    "permissions": ["read", "write"]
+  }
+} 
